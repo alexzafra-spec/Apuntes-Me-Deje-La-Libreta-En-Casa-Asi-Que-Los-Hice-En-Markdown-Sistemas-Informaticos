@@ -9,7 +9,7 @@
 
 + ***Pantalla***: Hay que ajustar la luminosiadad el tamaño y los caracteres, la pantalla debería ser inclinable a voluntad para facilitar ni debe tener reflejaos/reberberaciones (rebotes de luz) para que sea corrrecto debe estar 40-70cm de la vista.
 
-[!WARNING]
+> [!WARNING]
 **La pantalla** es el *mayor problema* para los que trabajamos en ifnormatica
 
 + **Teclado**: Debe de mantener una postura comoda para las muñecas y los brazos, debe de estar 10-15cm alejados del borde de la mesa.
