@@ -8,6 +8,7 @@
 ## ¿Donde tenemos el problema?
 
 + ***Pantalla***: Hay que ajustar la luminosiadad el tamaño y los caracteres, la pantalla debería ser inclinable a voluntad para facilitar ni debe tener reflejaos/reberberaciones (rebotes de luz) para que sea corrrecto debe estar 40-70cm de la vista.
+
 [!WARNING]
 **La pantalla** es el *mayor problema* para los que trabajamos en ifnormatica
 
